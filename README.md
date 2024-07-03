@@ -5,6 +5,7 @@
   Analyze the dashboard and provide insights on a ppt that addresses the following questions:
 
    *What is the impact of the 5G launch on our revenue?
+   
    *Which KPI is underperforming after the 5G launch?
    *After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
    *Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
